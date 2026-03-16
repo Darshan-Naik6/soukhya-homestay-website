@@ -28,9 +28,15 @@ soukhya-homestay-website
 ├── rooms.html
 ├── gallery.html
 ├── contact.html
-├── styles.css
-├── main.js
-└── assets / images
+│
+├── css
+│   └── styles.css
+│
+├── js
+│   └── main.js
+│
+└── assets
+    ├── images...
 ```
 
 ## 📍 About the Homestay
